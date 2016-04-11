@@ -1,0 +1,17 @@
+/Users/Nuds/Documents/Music/Temp/bin/Debug/UnityEngine.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/UnityEditor.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Nuds/Documents/Music/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Nuds/Documents/Music/obj/Debug/Assembly-CSharp.dll
+/Users/Nuds/Documents/Music/obj/Debug/Assembly-CSharp.dll.mdb
